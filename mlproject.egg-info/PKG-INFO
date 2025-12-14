@@ -3,6 +3,12 @@ Name: mlproject
 Version: 0.0.1
 Author: raju
 Author-email: rajasekhar8540@gmail.com
-Requires-Dist: pandas
 Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
 Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: xgboost
+Requires-Dist: catboost
+Requires-Dist: ipykernel
+Requires-Dist: notebook
